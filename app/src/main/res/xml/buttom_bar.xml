@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tab>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/bottom_bar_home"
+        activeColor="@color/blue_500"
+        titleSize="6dp"
+        title="Home"
+        />
+
+    <tab
+        id="@+id/tab_my_order"
+        icon="@drawable/bottom_bar_order"
+        activeColor="@color/blue_500"
+        titleSize="6dp"
+        title="My Order"
+        />
+
+
+    <tab
+        id="@+id/tab_help"
+        icon="@drawable/information24px"
+        activeColor="@color/blue_500"
+        titleSize="6dp"
+        title="Help"
+        />
+
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/bottom_bar_profile"
+        activeColor="@color/blue_500"
+        titleSize="6dp"
+        title="Profile"
+        />
+</Tab>
